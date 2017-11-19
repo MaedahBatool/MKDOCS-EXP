@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "MkDocs Experiments \ud83c\udf52\n\n\nMy starter workflow for MkDocs.", 
+            "title": "MkDocs Experiments \ud83c\udf52"
+        }, 
+        {
+            "location": "/#mkdocs-experiments", 
+            "text": "My starter workflow for MkDocs.", 
+            "title": "MkDocs Experiments \ud83c\udf52"
+        }
+    ]
+}
